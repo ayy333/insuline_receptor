@@ -1,0 +1,5 @@
+Cc1cccc(C)c1-c1cc2cnc(N)nc2nc1NC(=O)NC(C)(C)C	CHEMBL57323
+CN1CCN(CCCNc2ncc3cc(-c4c(Cl)cccc4Cl)c(NC(=O)NC(C)(C)C)nc3n2)CC1	CHEMBL57347
+Cc1cc(C)c(C)c(-c2cc3cnc(NCCCN4CCN(C)CC4)nc3nc2NC(=O)NC(C)(C)C)c1C	CHEMBL75188
+O=P(O)(O)C(O)c1ccc2ccccc2c1	CHEMBL26001
+CC(C)(C)NC(=O)Nc1nc2nc(N)ncc2cc1-c1ccccc1	CHEMBL76599
